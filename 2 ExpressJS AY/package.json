@@ -1,0 +1,16 @@
+{
+  "name": "expressjs-ay",
+  
+  "version": "1.0.0",
+  "description": "Creating an Express Server\r   1. Create directory.\r   2. Create index.js file.\r   3. Initialize NPM.\r   4. Install the Express package.\r   5. Write Server application in index.js.\r   6. Start server.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
